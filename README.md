@@ -1,0 +1,2 @@
+# Trader
+Algorithms and notes
